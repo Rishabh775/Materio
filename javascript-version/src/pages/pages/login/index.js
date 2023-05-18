@@ -228,6 +228,8 @@ const LoginPage = () => {
                       query: info
                     })
                   }
+                }else{
+                   alert("Plz fill valid data")
                 }
               }}
             >
